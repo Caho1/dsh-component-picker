@@ -1,0 +1,3 @@
+- insert:
+    - id: component-picker
+      name: '@local/dsh-component-picker'

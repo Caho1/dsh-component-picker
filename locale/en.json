@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "Browser element picker",
+    "description": "Adds a pointer tool to the built-in Browser tab: hover to highlight an element on the page, click to attach its element, component, props, source, styles and screenshot to the message."
+  }
+}
